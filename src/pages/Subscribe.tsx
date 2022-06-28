@@ -21,7 +21,7 @@ export function Subscribe() {
       }
     })
 
-    navigate('/event')
+    navigate('/event/lesson/maratona-explorer-abertura-oficial-do-evento')
   }
 
   return (
